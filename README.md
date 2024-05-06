@@ -10,8 +10,8 @@
 
 ---
 ## 截图
-![overview]()
-![overview]()
+![overview](Screenshots/systeminfo.png)
+![overview](Screenshots/sleep-batteryinfo.png)
 
 ---
 ### 使用情况
