@@ -16,23 +16,23 @@
 ### What's work&not work
 
 ---
-- [x] iGPU
-- [x] WIFI
-- [x] Touchpad
-- [ ] Touchscreen
-- [x] Sleep
-- [ ] Gravity sensor & Screen auto rotation
-- [ ] Tablet mode
-- [x] USB-C video output
-- [x] HDMI video output
-- [x] 3.5mm headphone jack
-- [x] USB
-- [x] Laptop screen with 120Hz
-- [ ] Hardware acceleration & Hardware encode/decode
-- [ ] Airdrop
-- [x] Audio & Volumn button on keyboard
-- [ ] Brightness adjust on keyboard/Fn+F区按键功能
-- [x] Webcam
+- &#9745; iGPU
+- &#9745; WIFI
+- &#9745; Touchpad
+- &#9744; Touchscreen
+- &#9745; Sleep
+- &#9744; Gravity sensor & Screen auto rotation
+- &#9744; Tablet mode
+- &#9745; USB-C video output (via XGM port)
+- &#9745; HDMI video output
+- &#9745; 3.5mm headphone jack
+- &#9745; USB
+- &#9745; Laptop screen with 120Hz
+- &#9744; Hardware acceleration & Hardware encode/decode
+- &#9744; Airdrop
+- &#9745; Audio & Volumn button on keyboard
+- &#9744; Brightness adjust on keyboard/Fn+F区按键功能
+- &#9745; Webcam
 
 ### Spec
 
