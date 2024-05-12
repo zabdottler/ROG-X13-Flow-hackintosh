@@ -21,6 +21,8 @@
 - [x] Touchpad
 - [ ] Touchscreen
 - [x] Sleep
+- [ ] Gravity sensor & Screen auto rotation
+- [ ] Tablet mode
 - [x] USB-C video output
 - [x] HDMI video output
 - [x] 3.5mm headphone jack
